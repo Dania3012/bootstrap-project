@@ -1,0 +1,64 @@
+body{
+    background-color: aliceblue;
+}
+.navbar-brand {
+    font-family: "Segoe Print";
+}
+.form-control my-2 my-lg-0{
+    position: absolute;
+    left: 50%;
+}
+.card-row{
+    margin-top: 30px;
+}
+.img-t{
+    margin:20px auto;
+}
+.my-navigation {
+    border: 0;
+}
+.text{
+    margin:30px 40px;
+/*}*/
+/*#footer-phone{*/
+    /*width:270px;*/
+    /*float:left;*/
+    /*margin-right:10px;*/
+    /*margin-top:10px;*/
+/*}*/
+/*#footer-phone h4{*/
+    /*font: bold 15px sans-serif;*/
+    /*margin:0;*/
+/*}*/
+/*#footer-phone h3{*/
+    /*font: bold 23px sans-serif;*/
+    /*margin:5px 0;*/
+/*}*/
+/*#footer-phone p{*/
+    /*font: 15px sans-serif;*/
+    /*margin:5px 0;*/
+/*}*/
+/*.footer-list{*/
+    /*width:200px;*/
+    /*float:left;*/
+    /*margin-left: 10px;*/
+/*}*/
+/*.footer-list li{*/
+    /*margin-top:5px;*/
+/*}*/
+/*.footer-list p{*/
+    /*font: bold 14px sans-serif;*/
+    /*margin-bottom:10px;*/
+/*}*/
+/*.footer-list a{*/
+    /*font:14px sans-serif;*/
+    /*text-decoration: none;*/
+    /*color: 7 b 7 b 7 b;*/
+/*}*/
+/*.footer-list a:hover{*/
+    /*text-decoration: underline;*/
+/*}*/
+/*#bottom-line{*/
+
+
+/*}*/
